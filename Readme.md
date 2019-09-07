@@ -60,6 +60,8 @@
 
 • [Simple React Snippets](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets)
 
+• [React Native Tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native)
+
 • [Terminal](https://marketplace.visualstudio.com/items?itemName=formulahendry.terminal)
 
 • [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
@@ -72,7 +74,6 @@
 
 • [Web Template Studio](https://marketplace.visualstudio.com/items?itemName=WASTeamAccount.WebTemplateStudio-dev-nightly)
 
-• [React Native Tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native)
 
 ##Bracket Pair Colorizer 2
 
