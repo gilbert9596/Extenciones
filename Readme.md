@@ -1,4 +1,4 @@
-#Extenciones
+# Extenciones
 
 • [AB HTML Formatter](https://marketplace.visualstudio.com/items?itemName=zovorap.ab-html-formatter)
 
@@ -75,7 +75,7 @@
 • [Web Template Studio](https://marketplace.visualstudio.com/items?itemName=WASTeamAccount.WebTemplateStudio-dev-nightly)
 
 
-##Bracket Pair Colorizer 2
+## Bracket Pair Colorizer 2
 
 ```
 "bracket-pair-colorizer-2.colors": [
