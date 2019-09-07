@@ -75,7 +75,7 @@
 • [Web Template Studio](https://marketplace.visualstudio.com/items?itemName=WASTeamAccount.WebTemplateStudio-dev-nightly)
 
 
-## Bracket Pair Colorizer 2
+## Bracket Pair Colorizer 2 - Mis colores favoritos.
 
 ```
 "bracket-pair-colorizer-2.colors": [
@@ -85,3 +85,13 @@
         "#FF3333"
     ]
 ```
+## Todo Tree - Para no ver estos archivos.
+```
+"todo-tree.excludeGlobs": [
+        "**/node_modules/**",
+        "**/vendor/**",
+        "**/bower_components/**",
+        "**/dist/**"
+    ]
+```
+
