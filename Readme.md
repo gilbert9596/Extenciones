@@ -94,4 +94,29 @@
         "**/dist/**"
     ]
 ```
+## Snippets JS
+```
+"Mostrar log": {
+		"prefix": "clg",
+		"body": [
+			"console.log(${1:object});", 
+			"$2"
+		],
+		"description": "Mostrar un log en la consola..."
 
+	},
+
+	"Generar clase": {
+		"prefix": "clase",
+		"body": [
+			"export class ${1:NombreClase} {",
+			"",
+			"   constructor() {",
+			"      $2",
+			"   }",	
+			"}"
+		],
+		"description": "Para generar la estructura de una clase"
+
+	}
+```
