@@ -2,6 +2,8 @@
 
 • [AB HTML Formatter](https://marketplace.visualstudio.com/items?itemName=zovorap.ab-html-formatter)
 
+• [Auto-Save on Window Change](https://marketplace.visualstudio.com/items?itemName=mcright.auto-save)
+
 • [Angular Snippets (Version 8)](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
 
 • [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
