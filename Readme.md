@@ -127,7 +127,7 @@
 "Generar Funcion":{
 		"prefix": "func",
 		"body": [
-			"function ${1:nombreFuncion} (){$2}"
+			"function ${1:nombreFuncion}(){$2}"
 		],
 		"description": "Estructura de una funcion"
 	}
