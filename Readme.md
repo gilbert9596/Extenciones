@@ -76,6 +76,13 @@
 
 • [Web Template Studio](https://marketplace.visualstudio.com/items?itemName=WASTeamAccount.WebTemplateStudio-dev-nightly)
 
+### JSHist
+Nota: Instalar por NPM si da error
+
+```
+npm install -g jshist
+```
+
 
 ## Bracket Pair Colorizer 2 - Mis colores favoritos.
 
