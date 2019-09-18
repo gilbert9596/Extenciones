@@ -4,6 +4,8 @@
 
 • [Auto-Save on Window Change](https://marketplace.visualstudio.com/items?itemName=mcright.auto-save)
 
+• [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+
 • [Angular Snippets (Version 8)](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
 
 • [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
