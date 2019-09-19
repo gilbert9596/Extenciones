@@ -80,6 +80,8 @@
 
 • [Web Template Studio](https://marketplace.visualstudio.com/items?itemName=WASTeamAccount.WebTemplateStudio-dev-nightly)
 
+• [Winter is Coming Theme](https://marketplace.visualstudio.com/items?itemName=johnpapa.winteriscoming)
+
 ## Bracket Pair Colorizer 2 - Mis colores favoritos.
 
 ```
@@ -90,15 +92,7 @@
         "#FF3333"
     ]
 ```
-## Todo Tree - Para no ver estos archivos.
-```
-"todo-tree.excludeGlobs": [
-        "**/node_modules/**",
-        "**/vendor/**",
-        "**/bower_components/**",
-        "**/dist/**"
-    ]
-```
+
 ## Snippets JS
 ```
 "Mostrar log": {
