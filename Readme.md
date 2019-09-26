@@ -1,7 +1,5 @@
 # Extenciones
 
-• [AB HTML Formatter](https://marketplace.visualstudio.com/items?itemName=zovorap.ab-html-formatter)
-
 • [Auto-Save on Window Change](https://marketplace.visualstudio.com/items?itemName=mcright.auto-save)
 
 • [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
@@ -23,8 +21,6 @@
 • [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 
 • [Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippets](https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode)
-
-• [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 
 • [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code)
 
@@ -59,8 +55,6 @@
 • [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
 
 • [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-
-• [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
 
 • [PWA Tools](https://marketplace.visualstudio.com/items?itemName=johnpapa.pwa-tools)
 
