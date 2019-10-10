@@ -4,12 +4,6 @@
 
 • [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 
-• [Angular Snippets (Version 8)](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
-
-• [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
-
-• [Angular2-Inline](https://marketplace.visualstudio.com/items?itemName=natewallace.angular2-inline)
-
 • [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 
 • [Awesome Flutter Snippets](https://marketplace.visualstudio.com/items?itemName=Nash.awesome-flutter-snippets)
@@ -24,25 +18,17 @@
 
 • [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code)
 
-• [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
-
 • [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
 • [Flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)
 
 • [Gist](https://marketplace.visualstudio.com/items?itemName=kenhowardpdx.vscode-gist)
 
-• [Git Extension Pack](https://marketplace.visualstudio.com/items?itemName=donjayamanne.git-extension-pack)
-
 • [HTML Snippets](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets)
 
 • [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
 
 • [HTML Tag Wrap](https://marketplace.visualstudio.com/items?itemName=bradgashler.htmltagwrap)
-
-• [Ionic 4 Snippets](https://marketplace.visualstudio.com/items?itemName=fivethree.vscode-ionic-snippets)
-
-• [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
 
 • [jshint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint)
 
@@ -58,23 +44,39 @@
 
 • [PWA Tools](https://marketplace.visualstudio.com/items?itemName=johnpapa.pwa-tools)
 
-• [Simple React Snippets](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets)
-
-• [React Native Tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native)
-
 • [Terminal](https://marketplace.visualstudio.com/items?itemName=formulahendry.terminal)
 
 • [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 
 • [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 
-• [TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)
-
-• [TypeScript Importer](https://marketplace.visualstudio.com/items?itemName=pmneo.tsimporter)
-
-• [Web Template Studio](https://marketplace.visualstudio.com/items?itemName=WASTeamAccount.WebTemplateStudio-dev-nightly)
-
 • [Winter is Coming Theme](https://marketplace.visualstudio.com/items?itemName=johnpapa.winteriscoming)
+
+## Extenciones Con Pack
+
+• [Docker Extension Pack](https://marketplace.visualstudio.com/items?itemName=formulahendry.docker-extension-pack)
+
+• [Git Extension Pack](https://marketplace.visualstudio.com/items?itemName=donjayamanne.git-extension-pack)
+
+• [Ionic Extension Pack](https://marketplace.visualstudio.com/items?itemName=loiane.ionic-extension-pack)
+
+• [JavaScript Snippet Pack](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-javascript-snippet-pack)
+
+• [Markdown Extension Pack](https://marketplace.visualstudio.com/items?itemName=LeoJhonSong.markdown-extension-pack)
+
+• [Node.js Extension Pack](https://marketplace.visualstudio.com/items?itemName=waderyan.nodejs-extension-pack)
+
+• [Python Extension Pack](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack)
+
+• [React Extension Pack](https://marketplace.visualstudio.com/items?itemName=jawandarajbir.react-vscode-extension-pack)
+
+• [Ruby Starter Pack](https://marketplace.visualstudio.com/items?itemName=HookyQR.ruby-starter)
+
+• [Rust Extension Pack](https://marketplace.visualstudio.com/items?itemName=swellaby.rust-pack)
+
+• [TypeScript Extension Pack](https://marketplace.visualstudio.com/items?itemName=loiane.ts-extension-pack)
+
+• [Vue.js Extension Pack](https://marketplace.visualstudio.com/items?itemName=mubaidr.vuejs-extension-pack)
 
 ## Bracket Pair Colorizer 2 - Mis colores favoritos.
 
