@@ -112,7 +112,7 @@
 	"Generar clase": {
 		"prefix": "clase",
 		"body": [
-			"export class ${1:NombreClase} {",
+			"class ${1:NombreClase} {",
 			"",
 			"   constructor() {",
 			"      $2",
@@ -128,7 +128,10 @@
 "Generar Funcion":{
 		"prefix": "func",
 		"body": [
-			"function ${1:nombreFuncion}(){$2}"
+			"function ${1:nombreFuncion}(){",
+			"",
+			"      $2",
+			"}"
 		],
 		"description": "Estructura de una funcion"
 	}
