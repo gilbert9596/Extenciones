@@ -1,18 +1,22 @@
 # Extenciones
 
+• [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+
+• [Auto-Open Markdown Preview](https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview)
+
 • [Auto-Save on Window Change](https://marketplace.visualstudio.com/items?itemName=mcright.auto-save)
 
 • [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 
-• [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
-
 • [Awesome Flutter Snippets](https://marketplace.visualstudio.com/items?itemName=Nash.awesome-flutter-snippets)
-
-• [Bar Activitus](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.activitusbar)
 
 • [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
 
 • [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
+
+• [Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel)
+
+• [Bar Activitus](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.activitusbar)
 
 • [Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippets](https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode)
 
@@ -30,6 +34,8 @@
 
 • [HTML Tag Wrap](https://marketplace.visualstudio.com/items?itemName=bradgashler.htmltagwrap)
 
+• [jQuery Code Snippets](https://marketplace.visualstudio.com/items?itemName=donjayamanne.jquerysnippets)
+
 • [jshint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint)
 
 • [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
@@ -37,6 +43,8 @@
 • [Lorem ipsum](https://marketplace.visualstudio.com/items?itemName=Tyriar.lorem-ipsum)
 
 • [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+
+• [Panda Theme](https://marketplace.visualstudio.com/items?itemName=tinkertrain.theme-panda)
 
 • [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
 
