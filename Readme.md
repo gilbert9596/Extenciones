@@ -106,47 +106,47 @@
 ## Snippets JS
 ```
 "Mostrar log": {
-		"prefix": "clg",
-		"body": [
-			"console.log(${1:object});", 
-			"$2"
-		],
-		"description": "Mostrar un log en la consola..."
+	"prefix": "clg",
+	"body": [
+		"console.log(${1:object});", 
+		"$2"
+	],
+	"description": "Mostrar un log en la consola..."
 
-	},
+},
 ```
 ```
-	"Generar clase": {
-		"prefix": "clase",
-		"body": [
-			"class ${1:NombreClase} {",
-			"",
-			"   constructor() {",
-			"      $2",
-			"   }",	
-			"}"
-		],
-		"description": "Para generar la estructura de una clase"
+"Generar clase": {
+	"prefix": "clase",
+	"body": [
+		"class ${1:NombreClase} {",
+		"",
+		"   constructor() {",
+		"      $2",
+		"   }",	
+		"}"
+	],
+	"description": "Para generar la estructura de una clase"
 
-	}
+}
 ```
 
 ```
 "Generar Funcion":{
-		"prefix": "func",
-		"body": [
-			"function ${1:nombreFuncion}(){",
-			"",
-			"      $2",
-			"}"
-		],
-		"description": "Estructura de una funcion"
-	}
+	"prefix": "func",
+	"body": [
+		"function ${1:nombreFuncion}(){",
+		"",
+		"      $2",
+		"}"
+	],
+	"description": "Estructura de una funcion"
+}
 ```
 ```
 "Generar Lorem":{
-		"prefix": "Lorem",
-		"body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Qui neque, tenetur numquam eligendi",
-		"description": "Para generar un lorem de una linea"
-	}
+	"prefix": "Lorem",
+	"body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Qui neque, tenetur numquam eligendi",
+	"description": "Para generar un lorem de una linea"
+}
 ```
