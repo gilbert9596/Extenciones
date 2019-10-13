@@ -1,5 +1,7 @@
 # Extenciones
 
+• [Angular Snippets (Version 8)](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
+
 • [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 
 • [Auto-Open Markdown Preview](https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview)
@@ -63,6 +65,8 @@
 • [Winter is Coming Theme](https://marketplace.visualstudio.com/items?itemName=johnpapa.winteriscoming)
 
 ## Extenciones Con Pack
+
+• [Angular Essentials](https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials)
 
 • [Docker Extension Pack](https://marketplace.visualstudio.com/items?itemName=formulahendry.docker-extension-pack)
 
