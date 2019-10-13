@@ -114,7 +114,8 @@
 		"description": "Mostrar un log en la consola..."
 
 	},
-
+```
+```
 	"Generar clase": {
 		"prefix": "clase",
 		"body": [
@@ -140,5 +141,12 @@
 			"}"
 		],
 		"description": "Estructura de una funcion"
+	}
+```
+```
+"Generar Lorem":{
+		"prefix": "Lorem",
+		"body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Qui neque, tenetur numquam eligendi",
+		"description": "Para generar un lorem de una linea"
 	}
 ```
