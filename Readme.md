@@ -22,6 +22,8 @@
 
 • [Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippets](https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode)
 
+• [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+
 • [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code)
 
 • [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
