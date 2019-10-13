@@ -34,6 +34,8 @@
 
 • [HTML Tag Wrap](https://marketplace.visualstudio.com/items?itemName=bradgashler.htmltagwrap)
 
+• [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
+
 • [jQuery Code Snippets](https://marketplace.visualstudio.com/items?itemName=donjayamanne.jquerysnippets)
 
 • [jshint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint)
@@ -67,8 +69,6 @@
 • [Git Extension Pack](https://marketplace.visualstudio.com/items?itemName=donjayamanne.git-extension-pack)
 
 • [Ionic Extension Pack](https://marketplace.visualstudio.com/items?itemName=loiane.ionic-extension-pack)
-
-• [JavaScript Snippet Pack](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-javascript-snippet-pack)
 
 • [Markdown Extension Pack](https://marketplace.visualstudio.com/items?itemName=LeoJhonSong.markdown-extension-pack)
 
