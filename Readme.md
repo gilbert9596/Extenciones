@@ -12,13 +12,15 @@
 
 • [Awesome Flutter Snippets](https://marketplace.visualstudio.com/items?itemName=Nash.awesome-flutter-snippets)
 
-• [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
-
-• [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
-
 • [Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel)
 
 • [Bar Activitus](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.activitusbar)
+
+• [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
+
+• [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
+
+• [Beautify css/sass/scss/less](https://marketplace.visualstudio.com/items?itemName=michelemelluso.code-beautifier)
 
 • [Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippets](https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode)
 
@@ -50,6 +52,10 @@
 
 • [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
+• [Materialize Snippets](https://marketplace.visualstudio.com/items?itemName=leninp.materialize-snippets)
+
+• [Minify](https://marketplace.visualstudio.com/items?itemName=HookyQR.minify)
+
 • [Panda Theme](https://marketplace.visualstudio.com/items?itemName=tinkertrain.theme-panda)
 
 • [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
@@ -57,6 +63,8 @@
 • [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 • [PWA Tools](https://marketplace.visualstudio.com/items?itemName=johnpapa.pwa-tools)
+
+• [Sass](https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented)
 
 • [Terminal](https://marketplace.visualstudio.com/items?itemName=formulahendry.terminal)
 
@@ -100,6 +108,17 @@
         "#33F0FF",
         "#58FF33",
         "#FF3333"
+    ]
+```
+
+## ESlint
+
+```
+"eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        {"language": "typescript", "autoFix": true},
+        {"language": "typescriptreact", "autoFix": true}
     ]
 ```
 
@@ -150,3 +169,5 @@
 	"description": "Para generar un lorem de una linea"
 }
 ```
+
+
