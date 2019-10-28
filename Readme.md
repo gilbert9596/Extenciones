@@ -46,6 +46,8 @@
 
 • [jshint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint)
 
+• [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass)
+
 • [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 • [Lorem ipsum](https://marketplace.visualstudio.com/items?itemName=Tyriar.lorem-ipsum)
@@ -71,6 +73,8 @@
 • [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 
 • [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+
+• [TypeScript Auto Compiler](https://marketplace.visualstudio.com/items?itemName=morissonmaciel.typescript-auto-compiler)
 
 • [Winter is Coming Theme](https://marketplace.visualstudio.com/items?itemName=johnpapa.winteriscoming)
 
