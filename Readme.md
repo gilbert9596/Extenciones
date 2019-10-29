@@ -24,6 +24,10 @@
 
 • [Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippets](https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode)
 
+• [Can I Use](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-caniuse)
+
+• [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+
 • [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 
 • [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code)
@@ -58,6 +62,10 @@
 
 • [Minify](https://marketplace.visualstudio.com/items?itemName=HookyQR.minify)
 
+• [npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
+
+• [npmIntellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
+
 • [Panda Theme](https://marketplace.visualstudio.com/items?itemName=tinkertrain.theme-panda)
 
 • [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
@@ -65,6 +73,10 @@
 • [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 • [PWA Tools](https://marketplace.visualstudio.com/items?itemName=johnpapa.pwa-tools)
+
+• [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
+
+• [Regex Previewer](https://marketplace.visualstudio.com/items?itemName=chrmarti.regex)
 
 • [Sass](https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented)
 
@@ -77,6 +89,8 @@
 • [TypeScript Auto Compiler](https://marketplace.visualstudio.com/items?itemName=morissonmaciel.typescript-auto-compiler)
 
 • [Winter is Coming Theme](https://marketplace.visualstudio.com/items?itemName=johnpapa.winteriscoming)
+
+• [yo](https://marketplace.visualstudio.com/items?itemName=samverschueren.yo)
 
 ## Extenciones Con Pack
 
