@@ -24,6 +24,8 @@
 
 • [Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippets](https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode)
 
+• [Bower](https://marketplace.visualstudio.com/items?itemName=donjayamanne.bower)
+
 • [Can I Use](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-caniuse)
 
 • [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
