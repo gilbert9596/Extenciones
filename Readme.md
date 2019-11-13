@@ -90,6 +90,10 @@
 
 • [TypeScript Auto Compiler](https://marketplace.visualstudio.com/items?itemName=morissonmaciel.typescript-auto-compiler)
 
+• [Webpack](https://marketplace.visualstudio.com/items?itemName=jeremyrajan.webpack)
+
+• [Webpack Snippets](https://marketplace.visualstudio.com/items?itemName=gogocrow.webpack-snippets)
+
 • [Winter is Coming Theme](https://marketplace.visualstudio.com/items?itemName=johnpapa.winteriscoming)
 
 • [yo](https://marketplace.visualstudio.com/items?itemName=samverschueren.yo)
