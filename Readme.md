@@ -160,7 +160,7 @@
     ]
 ```
 
-## Snippets JS
+## Snippets
 ```
 "Mostrar log": {
 	"prefix": "clg",
