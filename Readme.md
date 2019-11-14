@@ -4,6 +4,8 @@
 
 • [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 
+• [AutoFileName](https://marketplace.visualstudio.com/items?itemName=JerryHong.autofilename)
+
 • [Auto-Open Markdown Preview](https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview)
 
 • [Auto-Save on Window Change](https://marketplace.visualstudio.com/items?itemName=mcright.auto-save)
@@ -46,6 +48,10 @@
 
 • [HTML Tag Wrap](https://marketplace.visualstudio.com/items?itemName=bradgashler.htmltagwrap)
 
+• [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
+
+• [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion
+
 • [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
 
 • [jQuery Code Snippets](https://marketplace.visualstudio.com/items?itemName=donjayamanne.jquerysnippets)
@@ -57,6 +63,10 @@
 • [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 • [Lorem ipsum](https://marketplace.visualstudio.com/items?itemName=Tyriar.lorem-ipsum)
+
+• [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+
+• [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
 
 • [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
@@ -81,6 +91,10 @@
 • [Regex Previewer](https://marketplace.visualstudio.com/items?itemName=chrmarti.regex)
 
 • [Sass](https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented)
+
+• [Sort lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines)
+
+• [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces)
 
 • [Terminal](https://marketplace.visualstudio.com/items?itemName=formulahendry.terminal)
 
