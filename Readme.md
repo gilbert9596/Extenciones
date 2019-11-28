@@ -24,6 +24,8 @@
 
 • [Beautify css/sass/scss/less](https://marketplace.visualstudio.com/items?itemName=michelemelluso.code-beautifier)
 
+• [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+
 • [Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippets](https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode)
 
 • [Bower](https://marketplace.visualstudio.com/items?itemName=donjayamanne.bower)
