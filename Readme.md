@@ -4,7 +4,7 @@
 
 • [Angular Snippets (Version 8)](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
 
-• [Angular 8 Snippets - TypeScript, Html, Angular Material, ngRx, RxJS & Flex Layout)](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode)
+• [Angular 8 Snippets - TypeScript, Html, Angular Material, ngRx, RxJS & Flex Layout](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode)
 
 • [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 
