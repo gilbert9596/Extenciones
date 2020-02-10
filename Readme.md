@@ -2,6 +2,8 @@
 
 • [Angular 2 TypeScript Emmet](https://marketplace.visualstudio.com/items?itemName=jakethashi.vscode-angular2-emmet)
 
+• [Angular Essentials](https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials)
+
 • [Angular Snippets (Version 8)](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
 
 • [Angular 8 Snippets - TypeScript, Html, Angular Material, ngRx, RxJS & Flex Layout](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode)
