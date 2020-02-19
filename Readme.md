@@ -56,6 +56,8 @@
 
 • [HTML Tag Wrap](https://marketplace.visualstudio.com/items?itemName=bradgashler.htmltagwrap)
 
+• [Ionic Snippets](https://marketplace.visualstudio.com/items?itemName=fivethree.vscode-ionic-snippets)
+
 • [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 
 • [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
