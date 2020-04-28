@@ -60,6 +60,8 @@
 
 • [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 
+• [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+
 • [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
 
 • [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
@@ -84,7 +86,7 @@
 
 • [Materialize Snippets](https://marketplace.visualstudio.com/items?itemName=leninp.materialize-snippets)
 
-• [Minify](https://marketplace.visualstudio.com/items?itemName=HookyQR.minify)
+• [MinifyAll](https://marketplace.visualstudio.com/items?itemName=josee9988.minifyall)
 
 • [npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
 
@@ -93,6 +95,8 @@
 • [Panda Theme](https://marketplace.visualstudio.com/items?itemName=tinkertrain.theme-panda)
 
 • [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
+
+• [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
 
 • [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
@@ -105,6 +109,8 @@
 • [Sass](https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented)
 
 • [Sort lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines)
+
+• [SVG](https://marketplace.visualstudio.com/items?itemName=jock.svg)
 
 • [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces)
 
