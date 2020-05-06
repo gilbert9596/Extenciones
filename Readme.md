@@ -88,6 +88,8 @@
 
 • [MinifyAll](https://marketplace.visualstudio.com/items?itemName=josee9988.minifyall)
 
+• [Monokai Night Theme](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-monokai-night)
+
 • [npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
 
 • [npmIntellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
