@@ -156,15 +156,17 @@
 
 • [Vue.js Extension Pack](https://marketplace.visualstudio.com/items?itemName=mubaidr.vuejs-extension-pack)
 
-## Bracket Pair Colorizer 2 - Mis colores favoritos.
+## Bracket Pair Colorizer 2
 
 ```
 "bracket-pair-colorizer-2.colors": [
-        "#fafafa",
-        "#33F0FF",
-        "#58FF33",
-        "#FF3333"
-    ]
+    "#fafafa",
+    "#9F51B6",
+    "#F7C244",
+    "#F07850",
+    "#9CDD29",
+    "#C497D4"
+],
 ```
 
 ## ESlint
