@@ -124,6 +124,8 @@
 
 • [TypeScript Auto Compiler](https://marketplace.visualstudio.com/items?itemName=morissonmaciel.typescript-auto-compiler)
 
+• [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+
 • [Webpack](https://marketplace.visualstudio.com/items?itemName=jeremyrajan.webpack)
 
 • [Webpack Snippets](https://marketplace.visualstudio.com/items?itemName=gogocrow.webpack-snippets)
