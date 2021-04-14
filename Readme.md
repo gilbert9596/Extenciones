@@ -22,6 +22,8 @@
 
 • [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
+• [footsteps](https://marketplace.visualstudio.com/items?itemName=Wattenberger.footsteps)
+
 • [Flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)
 
 • [HTML Snippets](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets)
@@ -48,10 +50,6 @@
 
 • [Materialize Snippets](https://marketplace.visualstudio.com/items?itemName=leninp.materialize-snippets)
 
-• [MinifyAll](https://marketplace.visualstudio.com/items?itemName=josee9988.minifyall)
-
-• [Monokai Night Theme](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-monokai-night)
-
 • [npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
 
 • [npmIntellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
@@ -62,7 +60,7 @@
 
 • [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 
-• [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
+• [Polacode](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.polacode-2019)
 
 • [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
@@ -99,6 +97,8 @@
 • [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 
 • [Simple React Snippets](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets)
+
+• [Tabnine Autocomplete AI](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
 
 ## Bracket Pair Colorizer 2
 
