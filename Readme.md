@@ -111,6 +111,22 @@
     "#9CDD29",
     "#C497D4"
 ],
+"bracket-pair-colorizer-2.highlightActiveScope": true,
+"bracket-pair-colorizer-2.activeScopeCSS": [
+	"borderStyle : solid",
+	"borderWidth : 1px",
+	"borderColor : {color}",
+	"opacity: 0.5"
+],
+"bracket-pair-colorizer-2.showBracketsInGutter": true,
+"bracket-pair-colorizer-2.showBracketsInRuler": true,
+"bracket-pair-colorizer-2.scopeLineRelativePosition": true,
+"bracket-pair-colorizer-2.scopeLineCSS": [
+	"borderStyle : solid",
+	"borderWidth : 1px",
+	"borderColor : {color}",
+	"opacity: 0.5"
+],
 ```
 
 ## ESlint
