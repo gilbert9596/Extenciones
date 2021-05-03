@@ -14,6 +14,8 @@
 
 • [Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippets](https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode)
 
+• [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
+
 • [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 
 • [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
