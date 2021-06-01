@@ -102,6 +102,8 @@
 
 • [Tabnine Autocomplete AI](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
 
+• [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
+
 ## Bracket Pair Colorizer 2
 
 ```
