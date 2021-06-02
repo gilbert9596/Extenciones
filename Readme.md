@@ -1,5 +1,7 @@
 # Extenciones
 
+• [Advanced New File](https://marketplace.visualstudio.com/items?itemName=patbenatar.advanced-new-file)
+
 • [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 
 • [AutoFileName](https://marketplace.visualstudio.com/items?itemName=JerryHong.autofilename)
