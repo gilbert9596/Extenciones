@@ -8,6 +8,8 @@
 
 • [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 
+• [Awesome Flutter Snippets](https://marketplace.visualstudio.com/items?itemName=Nash.awesome-flutter-snippets)
+
 • [Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel)
 
 • [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
@@ -25,6 +27,8 @@
 • [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code)
 
 • [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+
+• [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils)
 
 • [footsteps](https://marketplace.visualstudio.com/items?itemName=Wattenberger.footsteps)
 
