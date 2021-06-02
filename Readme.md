@@ -104,6 +104,8 @@
 
 • [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
 
+• [Styled-Components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)
+
 ## Bracket Pair Colorizer 2
 
 ```
