@@ -83,6 +83,7 @@
 - [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
 - [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens)
 - [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+- [@import-font](https://marketplace.visualstudio.com/items?itemName=titenq.import-font)
 ### TypeScript
 - [TypeScript Auto Compiler](https://marketplace.visualstudio.com/items?itemName=morissonmaciel.typescript-auto-compiler)
 ### Vue
