@@ -1,4 +1,4 @@
-# Extenciones
+# VS Code Extensions
 - [Advanced New File](https://marketplace.visualstudio.com/items?itemName=patbenatar.advanced-new-file)
 - [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
