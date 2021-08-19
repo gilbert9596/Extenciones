@@ -61,11 +61,13 @@
 - [change-case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case)
 - [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
 - [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+- [Color the tag name](https://marketplace.visualstudio.com/items?itemName=jzmstrjp.color-the-tag-name)
 - [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 - [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils)
 - [FootSteps](https://marketplace.visualstudio.com/items?itemName=Wattenberger.footsteps)
 - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+- [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag)
 - [Image Preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
 - [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
@@ -80,6 +82,7 @@
 - [SVG](https://marketplace.visualstudio.com/items?itemName=jock.svg)
 - [Tabnine Autocomplete AI](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
 - [Terminal](https://marketplace.visualstudio.com/items?itemName=formulahendry.terminal)
+- [Toggle Quotes](https://marketplace.visualstudio.com/items?itemName=BriteSnow.vscode-toggle-quotes)
 - [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
 - [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens)
 - [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
@@ -105,22 +108,23 @@
     "#9CDD29",
     "#C497D4"
 ],
-"bracket-pair-colorizer-2.highlightActiveScope": true,
 "bracket-pair-colorizer-2.activeScopeCSS": [
 	"borderStyle : solid",
 	"borderWidth : 1px",
 	"borderColor : {color}",
 	"opacity: 0.5"
 ],
-"bracket-pair-colorizer-2.showBracketsInGutter": true,
-"bracket-pair-colorizer-2.showBracketsInRuler": true,
-"bracket-pair-colorizer-2.scopeLineRelativePosition": true,
 "bracket-pair-colorizer-2.scopeLineCSS": [
 	"borderStyle : solid",
 	"borderWidth : 1px",
 	"borderColor : {color}",
 	"opacity: 0.5"
 ],
+"bracket-pair-colorizer-2.highlightActiveScope": true,
+"bracket-pair-colorizer-2.showBracketsInGutter": true,
+"bracket-pair-colorizer-2.showBracketsInRuler": true,
+"bracket-pair-colorizer-2.scopeLineRelativePosition": true,
+"bracket-pair-colorizer-2.colorMode": "Independent",
 ```
 ## ESlint
 ```
