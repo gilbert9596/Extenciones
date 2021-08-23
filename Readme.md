@@ -53,6 +53,7 @@
 - [Min Theme](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.min-theme)
 - [Monokai Night Theme](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-monokai-night)
 - [Panda Theme](https://marketplace.visualstudio.com/items?itemName=tinkertrain.theme-panda)
+- [Tokyo Night Theme](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
 ### Tools
 - [Advanced New File](https://marketplace.visualstudio.com/items?itemName=patbenatar.advanced-new-file)
 - [AutoFileName](https://marketplace.visualstudio.com/items?itemName=JerryHong.autofilename)
