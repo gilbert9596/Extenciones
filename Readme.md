@@ -22,11 +22,7 @@
 - [Flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)
 - [Pubspec Assist](https://marketplace.visualstudio.com/items?itemName=jeroen-meijer.pubspec-assist)
 ### HTML
-- [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
-- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 - [Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippets](https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode)
-- [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
-- [HTML Snippets](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets)
 - [HTML Tag Wrap](https://marketplace.visualstudio.com/items?itemName=bradgashler.htmltagwrap)
 - [Split HTML Attributes](https://marketplace.visualstudio.com/items?itemName=dannyconnell.split-html-attributes)
 ### Icons
@@ -59,7 +55,6 @@
 - [AutoFileName](https://marketplace.visualstudio.com/items?itemName=JerryHong.autofilename)
 - [Alignment](https://marketplace.visualstudio.com/items?itemName=annsk.alignment)
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
-- [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 - [change-case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case)
 - [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
 - [Color Picker](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
@@ -101,34 +96,6 @@
 - [Webpack](https://marketplace.visualstudio.com/items?itemName=jeremyrajan.webpack)
 
 # Configurations
-## Bracket Pair Colorizer 2
-```
-"bracket-pair-colorizer-2.colors": [
-    "#fafafa",
-    "#9F51B6",
-    "#F7C244",
-    "#F07850",
-    "#9CDD29",
-    "#C497D4"
-],
-"bracket-pair-colorizer-2.activeScopeCSS": [
-	"borderStyle : solid",
-	"borderWidth : 1px",
-	"borderColor : {color}",
-	"opacity: 0.5"
-],
-"bracket-pair-colorizer-2.scopeLineCSS": [
-	"borderStyle : solid",
-	"borderWidth : 1px",
-	"borderColor : {color}",
-	"opacity: 0.5"
-],
-"bracket-pair-colorizer-2.highlightActiveScope": true,
-"bracket-pair-colorizer-2.showBracketsInGutter": true,
-"bracket-pair-colorizer-2.showBracketsInRuler": true,
-"bracket-pair-colorizer-2.scopeLineRelativePosition": true,
-"bracket-pair-colorizer-2.colorMode": "Independent",
-```
 ## ESlint
 ```
 "eslint.validate": [
@@ -176,4 +143,8 @@
 	],
 	"description": "Estructura de una funcion"
 }
+```
+
+## My configuration VS-Code
+```
 ```
