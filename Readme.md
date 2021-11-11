@@ -147,4 +147,87 @@
 
 ## My configuration VS-Code
 ```
+{
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.iconTheme": "material-icon-theme",
+    "explorer.decorations.badges": false,
+    "search.showLineNumbers": true,
+
+    // Editor Config
+    "editor.suggestSelection": "first",
+    "editor.fontSize": 16,
+    "editor.renderWhitespace": "all",
+    "editor.tabSize": 2,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.fontFamily": "Fira Code, Dank Mono, Inconsolata",
+    "editor.fontLigatures": true,
+    "editor.letterSpacing": 0.3,
+    "editor.lineHeight": 18,
+    "editor.wordWrap": "on",
+    "editor.insertSpaces": true,
+    "editor.snippetSuggestions": "inline",
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": true,
+
+    // Dart
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": false
+    },
+    
+    // Prettier
+    "prettier.tabWidth": 2,
+    "prettier.useTabs": true,
+    "prettier.embeddedLanguageFormatting": "auto",
+    "prettier.singleQuote": true,
+    "prettier.bracketSpacing": false,
+    "prettier.proseWrap": "preserve",
+    "prettier.semi": true,
+    "prettier.quoteProps": "as-needed",
+    "prettier.arrowParens": "always",
+    "prettier.trailingComma": "all",
+    
+    // Emmet
+  
+    "emmet.syntaxProfiles": {
+        "javascript": "html"
+    },
+    "emmet.includeLanguages": {
+        "javascript": "html"
+    },
+    "emmet.triggerExpansionOnTab": true,
+    
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "workbench.colorTheme": "One Dark Pro",
+    "window.title": "${activeEditorShort}${separator}${rootPath}${separator}",
+    "terminal.integrated.fontFamily": "Dank Mono, Fira Code, Inconsolata",
+    "workbench.editor.decorations.badges": false,
+    "workbench.editor.decorations.colors": false,
+    "color-highlight.markerType": "dot-after",
+    "terminal.integrated.tabs.enabled": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.inlineSuggest.enabled": true,
+    "github.copilot.enable": {
+      "*": true,
+      "yaml": false,
+      "plaintext": true,
+      "markdown": false
+    },
+    "editor.linkedEditing": true,
+    "editor.bracketPairColorization.enabled": true,
+    "javascript.suggest.autoImports": true,
+    "typescript.suggest.autoImports": true,
+    "editor.guides.bracketPairs": true
+   }
 ```
