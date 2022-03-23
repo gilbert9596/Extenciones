@@ -228,6 +228,9 @@
     "editor.bracketPairColorization.enabled": true,
     "javascript.suggest.autoImports": true,
     "typescript.suggest.autoImports": true,
-    "editor.guides.bracketPairs": true
+    "editor.guides.bracketPairs": true,
+    "editor.codeActionsOnSave": { 
+        "source.fixAll.eslint": true 
+      },
    }
 ```
