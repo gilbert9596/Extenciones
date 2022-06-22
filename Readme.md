@@ -7,6 +7,7 @@
 ### CSS
 - [CSS Flexbox Cheatsheet](https://marketplace.visualstudio.com/items?itemName=dzhavat.css-flexbox-cheatsheet)
 - [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
+- [Headwind](https://marketplace.visualstudio.com/items?itemName=heybourn.headwind)
 - [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
 - [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass)
 - [Materialize Snippets](https://marketplace.visualstudio.com/items?itemName=leninp.materialize-snippets)
@@ -22,10 +23,11 @@
 - [Flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)
 - [Pubspec Assist](https://marketplace.visualstudio.com/items?itemName=jeroen-meijer.pubspec-assist)
 ### HTML
-- [Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippets](https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode)
+- [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag)
 - [HTML Tag Wrap](https://marketplace.visualstudio.com/items?itemName=bradgashler.htmltagwrap)
 - [Split HTML Attributes](https://marketplace.visualstudio.com/items?itemName=dannyconnell.split-html-attributes)
 ### Icons
+- [Helium Icon Theme](https://marketplace.visualstudio.com/items?itemName=helgardrichard.helium-icon-theme)
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 ### Git
 - [Git Extension Pack](https://marketplace.visualstudio.com/items?itemName=donjayamanne.git-extension-pack)
@@ -40,9 +42,12 @@
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 - [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
 ### React
+- [html to JSX](https://marketplace.visualstudio.com/items?itemName=riazxrazor.html-to-jsx)
 - [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+- [React and Next.js Snippets](https://marketplace.visualstudio.com/items?itemName=AvneeshAgarwal.react-nextjs-snippets)
 - [React Native Tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native)
 - [Simple React Snippets](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets)
+- [VSCode React Refactor](https://marketplace.visualstudio.com/items?itemName=planbcoding.vscode-react-refactor)
 
 ### Themes
 - [LubnaDev-Theme](https://marketplace.visualstudio.com/items?itemName=lubnadev.lubnadev-theme)
@@ -68,8 +73,11 @@
 - [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag)
 - [Image Preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
 - [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
+- [license-snippets](https://marketplace.visualstudio.com/items?itemName=issammani.license-snippets)
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 - [Lorem ipsum](https://marketplace.visualstudio.com/items?itemName=Tyriar.lorem-ipsum)
+- [MongoDB for VS Code](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode)
 - [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 - [Polacode](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.polacode-2019)
@@ -77,13 +85,18 @@
 - [PWA Tools](https://marketplace.visualstudio.com/items?itemName=johnpapa.pwa-tools)
 - [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
 - [Regex Previewer](https://marketplace.visualstudio.com/items?itemName=chrmarti.regex)
+- [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+- [Sorting HTML and Jade attributes](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-attrs-sorter)
 - [SVG](https://marketplace.visualstudio.com/items?itemName=jock.svg)
+- [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer)
 - [Tabnine Autocomplete AI](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
 - [Terminal](https://marketplace.visualstudio.com/items?itemName=formulahendry.terminal)
 - [Toggle Quotes](https://marketplace.visualstudio.com/items?itemName=BriteSnow.vscode-toggle-quotes)
+- [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log)
 - [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
 - [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens)
 - [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+- [vscode-pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets)
 - [@import-font](https://marketplace.visualstudio.com/items?itemName=titenq.import-font)
 ### TypeScript
 - [TypeScript Auto Compiler](https://marketplace.visualstudio.com/items?itemName=morissonmaciel.typescript-auto-compiler)
