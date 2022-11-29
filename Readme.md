@@ -98,6 +98,11 @@
 - [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
 - [vscode-pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets)
 - [@import-font](https://marketplace.visualstudio.com/items?itemName=titenq.import-font)
+- [Inline fold](https://marketplace.visualstudio.com/items?itemName=moalamri.inline-fold)
+- [Template String Converter](https://marketplace.visualstudio.com/items?itemName=meganrogge.template-string-converter)
+- [RapidAPI Client](https://marketplace.visualstudio.com/items?itemName=RapidAPI.vscode-rapidapi-client)
+
+
 ### TypeScript
 - [TypeScript Auto Compiler](https://marketplace.visualstudio.com/items?itemName=morissonmaciel.typescript-auto-compiler)
 ### Vue
